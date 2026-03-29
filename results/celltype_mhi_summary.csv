@@ -1,0 +1,82 @@
+cell_type,disease,mean,median,std,count
+B cell,HER2 positive breast carcinoma,0.0,0.0,0.0,3
+B cell,estrogen-receptor positive breast cancer,0.0,0.0,0.0,12
+B cell,triple-negative breast carcinoma,0.0,0.0,0.0,14
+"CD4-positive, alpha-beta T cell",breast carcinoma,0.0,0.0,0.0,2
+"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,0.0,0.0,0.0,22
+"CD4-positive, alpha-beta T cell",invasive lobular breast carcinoma,0.0,0.0,0.0,2
+"CD8-positive, alpha-beta T cell",breast carcinoma,0.0,0.0,0.0,2
+"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,0.0,0.0,0.0,21
+"CD8-positive, alpha-beta T cell",invasive lobular breast carcinoma,0.0,0.0,0.0,2
+T cell,HER2 positive breast carcinoma,0.0,0.0,0.0,4
+T cell,breast cancer,0.0,0.0,0.0,5
+T cell,breast carcinoma,0.0,0.0,0.0,2
+T cell,estrogen-receptor positive breast cancer,0.0,0.0,0.0,19
+T cell,invasive ductal breast carcinoma,0.0,0.0,0.0,11
+T cell,triple-negative breast carcinoma,0.0,0.0,0.0,19
+adipocyte,breast cancer,0.0,0.0,0.0,2
+basal-myoepithelial cell of mammary gland,invasive ductal breast carcinoma,0.0,0.0,0.0,4
+basal-myoepithelial cell of mammary gland,invasive lobular breast carcinoma,0.0,0.0,,1
+blood vessel endothelial cell,breast cancer,0.0,0.0,0.0,3
+blood vessel smooth muscle cell,breast cancer,0.0,0.0,0.0,2
+endothelial cell,HER2 positive breast carcinoma,0.0,0.0,0.0,4
+endothelial cell,breast cancer,0.0,0.0,0.0,2
+endothelial cell,breast carcinoma,0.0,0.0,,1
+endothelial cell,estrogen-receptor positive breast cancer,0.0,0.0,0.0,18
+endothelial cell,invasive ductal breast carcinoma,0.0,0.0,0.0,20
+endothelial cell,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+endothelial cell,triple-negative breast carcinoma,0.0,0.0,0.0,16
+endothelial cell of lymphatic vessel,invasive ductal breast carcinoma,0.0,0.0,0.0,3
+endothelial cell of lymphatic vessel,invasive lobular breast carcinoma,0.0,0.0,,1
+fibroblast,HER2 positive breast carcinoma,0.0,0.0,0.0,4
+fibroblast,breast cancer,0.0,0.0,0.0,5
+fibroblast,estrogen-receptor positive breast cancer,0.0,0.0,0.0,19
+fibroblast,triple-negative breast carcinoma,0.0,0.0,0.0,18
+fibroblast of breast,breast carcinoma,0.0,0.0,,1
+fibroblast of breast,invasive ductal breast carcinoma,0.0,0.0,0.0,19
+fibroblast of breast,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+keratinocyte,breast cancer,0.0,0.0,,1
+luminal epithelial cell of mammary gland,breast carcinoma,0.0,0.0,,1
+luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,0.0,0.0,0.0,13
+luminal epithelial cell of mammary gland,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+macrophage,breast cancer,0.0,0.0,0.0,5
+macrophage,breast carcinoma,0.0,0.0,0.0,2
+macrophage,invasive ductal breast carcinoma,0.0,0.0,0.0,21
+macrophage,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+malignant cell,HER2 positive breast carcinoma,0.0,0.0,0.0,4
+malignant cell,breast cancer,0.0,0.0,0.0,5
+malignant cell,estrogen-receptor positive breast cancer,0.0,0.0,0.0,19
+malignant cell,triple-negative breast carcinoma,0.0,0.0,0.0,18
+mammary gland epithelial cell,breast carcinoma,0.0,0.0,0.0,2
+mammary gland epithelial cell,invasive ductal breast carcinoma,0.0,0.0,0.0,14
+mammary gland epithelial cell,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+mast cell,breast cancer,0.0,0.0,,1
+mast cell,estrogen-receptor positive breast cancer,0.0,0.0,0.0,4
+mature NK T cell,breast carcinoma,0.0,0.0,,1
+mature NK T cell,invasive ductal breast carcinoma,0.0,0.0,0.0,17
+mature NK T cell,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+memory B cell,breast carcinoma,0.0,0.0,,1
+memory B cell,invasive ductal breast carcinoma,0.0,0.0,0.0,17
+memory B cell,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+monocyte,breast cancer,0.0,0.0,,1
+monocyte,breast carcinoma,0.0,0.0,0.0,2
+monocyte,invasive ductal breast carcinoma,0.0,0.0,0.0,14
+monocyte,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+myeloid cell,HER2 positive breast carcinoma,0.0,0.0,0.0,4
+myeloid cell,breast carcinoma,0.0,0.0,0.0,2
+myeloid cell,estrogen-receptor positive breast cancer,0.0,0.0,0.0,18
+myeloid cell,invasive ductal breast carcinoma,0.0,0.0,0.0,17
+myeloid cell,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+myeloid cell,triple-negative breast carcinoma,0.0,0.0,0.0,18
+naive B cell,invasive ductal breast carcinoma,0.0,0.0,0.0,4
+natural killer cell,breast carcinoma,0.0,0.0,0.0,2
+natural killer cell,invasive ductal breast carcinoma,0.0,0.0,0.0,16
+natural killer cell,invasive lobular breast carcinoma,0.0,0.0,,1
+pericyte,breast carcinoma,0.0,0.0,0.0,2
+pericyte,invasive ductal breast carcinoma,0.0,0.0,0.0,20
+pericyte,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+plasma cell,breast cancer,0.0,0.0,,1
+plasmablast,invasive ductal breast carcinoma,0.0,0.0,0.0,12
+plasmablast,invasive lobular breast carcinoma,0.0,0.0,0.0,2
+"plasmacytoid dendritic cell, human",estrogen-receptor positive breast cancer,0.0,0.0,0.0,3
+"plasmacytoid dendritic cell, human",triple-negative breast carcinoma,0.0,0.0,0.0,4

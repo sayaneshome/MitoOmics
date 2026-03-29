@@ -1,0 +1,39 @@
+cd /Users/sshome/Downloads/MitoOmics-fixed
+conda activate mitoomics
+
+pip install -e .
+
+python -m mitoomics_gpu \
+  --scrna           mitoomics_gpu/data/scrna.mito.h5ad \
+  --proteomics      mitoomics_gpu/data/ev_human.csv \
+  --mitocarta-table mitoomics_gpu/data/mitocarta3_table.csv \
+  --genesets        mitoomics_gpu/data/genesets_curated.csv \
+  --ev-whitelist    mitoomics_gpu/data/ev_whitelist.csv \
+  --outdir          results/ \
+  --group-col       disease
+  
+  
+  python mitoomics_gpu/tools/celltype_mhi.py \
+  --scrna           mitoomics_gpu/data/scrna.mito.h5ad \
+  --mitocarta-table mitoomics_gpu/data/mitocarta3_table.csv \
+  --genesets        mitoomics_gpu/data/genesets_curated.csv \
+  --outdir          results/
+  
+  
+  python mitoomics_gpu/tools/casestudy_ev_multicancer.py \
+  --proteomics mitoomics_gpu/data/ev_human.csv \
+  --genesets   mitoomics_gpu/data/genesets_curated.csv \
+  --whitelist  mitoomics_gpu/data/ev_whitelist.csv \
+  --outdir     results/casestudy_ev/
+  
+  
+  python mitoomics_gpu/tools/casestudy_pathway_profiling.py \
+  --scrna           mitoomics_gpu/data/scrna.mito.h5ad \
+  --mitocarta-table mitoomics_gpu/data/mitocarta3_table.csv \
+  --outdir          results/casestudy_pathways/
+  
+  
+  python mitoomics_gpu/tools/casestudy_protein_signature.py \
+  --proteomics mitoomics_gpu/data/ev_human.csv \
+  --genesets   mitoomics_gpu/data/genesets_curated.csv \
+  --outdir     results/casestudy_proteins/

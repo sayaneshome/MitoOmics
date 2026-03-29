@@ -1,0 +1,593 @@
+subject_id,cell_type,disease,n_cells,copy_number,fusion_fission,mitophagy,MHI
+BIOKEY_1,B cell,triple-negative breast carcinoma,45,0.0,-0.076859355,-0.083482385,0.0
+BIOKEY_1,T cell,triple-negative breast carcinoma,233,0.0,-0.10804025,-0.082773596,0.0
+BIOKEY_1,endothelial cell,triple-negative breast carcinoma,15,0.0,-0.10886346,-0.05188048,0.0
+BIOKEY_1,fibroblast,triple-negative breast carcinoma,148,0.0,0.0010023993,0.12640883,0.0
+BIOKEY_1,malignant cell,triple-negative breast carcinoma,93,0.0,-0.0672638,-0.08019479,0.0
+BIOKEY_1,myeloid cell,triple-negative breast carcinoma,51,0.0,-0.0050678533,0.063003205,0.0
+BIOKEY_2,B cell,triple-negative breast carcinoma,44,0.0,-0.14426498,-0.20432955,0.0
+BIOKEY_2,T cell,triple-negative breast carcinoma,180,0.0,-0.124755174,-0.12964885,0.0
+BIOKEY_2,endothelial cell,triple-negative breast carcinoma,6,0.0,0.20650376,0.07865142,0.0
+BIOKEY_2,fibroblast,triple-negative breast carcinoma,36,0.0,0.18128043,0.20464168,0.0
+BIOKEY_2,malignant cell,triple-negative breast carcinoma,55,0.0,-0.08829882,-0.17748582,0.0
+BIOKEY_2,myeloid cell,triple-negative breast carcinoma,45,0.0,-0.11759467,-0.08379631,0.0
+BIOKEY_2,"plasmacytoid dendritic cell, human",triple-negative breast carcinoma,4,0.0,0.11332227,0.1588791,0.0
+BIOKEY_3,B cell,estrogen-receptor positive breast cancer,3,0.0,0.0995633,0.13015077,0.0
+BIOKEY_3,T cell,estrogen-receptor positive breast cancer,21,0.0,-0.1258529,-0.08927373,0.0
+BIOKEY_3,endothelial cell,estrogen-receptor positive breast cancer,3,0.0,0.26522824,0.43125188,0.0
+BIOKEY_3,fibroblast,estrogen-receptor positive breast cancer,233,0.0,0.10081537,0.047866493,0.0
+BIOKEY_3,malignant cell,estrogen-receptor positive breast cancer,34,0.0,0.0057979138,0.003745555,0.0
+BIOKEY_3,mast cell,estrogen-receptor positive breast cancer,4,0.0,-0.21142615,-0.33979273,0.0
+BIOKEY_3,myeloid cell,estrogen-receptor positive breast cancer,33,0.0,-0.15285623,-0.08271999,0.0
+BIOKEY_4,B cell,estrogen-receptor positive breast cancer,104,0.0,-0.08837859,-0.1353413,0.0
+BIOKEY_4,T cell,estrogen-receptor positive breast cancer,256,0.0,-0.087697335,-0.03771603,0.0
+BIOKEY_4,endothelial cell,estrogen-receptor positive breast cancer,3,0.0,0.07901694,-0.08406202,0.0
+BIOKEY_4,fibroblast,estrogen-receptor positive breast cancer,16,0.0,0.23301786,0.22900236,0.0
+BIOKEY_4,malignant cell,estrogen-receptor positive breast cancer,88,0.0,0.22422168,0.20986058,0.0
+BIOKEY_4,myeloid cell,estrogen-receptor positive breast cancer,30,0.0,-0.04416829,-0.11534162,0.0
+BIOKEY_4,"plasmacytoid dendritic cell, human",estrogen-receptor positive breast cancer,4,0.0,-0.16960184,0.102900155,0.0
+BIOKEY_5,B cell,estrogen-receptor positive breast cancer,45,0.0,-0.14908041,-0.13502401,0.0
+BIOKEY_5,T cell,estrogen-receptor positive breast cancer,161,0.0,-0.0894495,-0.093121596,0.0
+BIOKEY_5,endothelial cell,estrogen-receptor positive breast cancer,9,0.0,0.19243678,0.09180712,0.0
+BIOKEY_5,fibroblast,estrogen-receptor positive breast cancer,8,0.0,0.08870873,0.09360185,0.0
+BIOKEY_5,malignant cell,estrogen-receptor positive breast cancer,19,0.0,0.3133306,0.32683906,0.0
+BIOKEY_5,mast cell,estrogen-receptor positive breast cancer,19,0.0,-0.11720361,-0.10503192,0.0
+BIOKEY_5,myeloid cell,estrogen-receptor positive breast cancer,4,0.0,-0.2180819,-0.3150379,0.0
+BIOKEY_6,B cell,estrogen-receptor positive breast cancer,17,0.0,-0.1939898,-0.19893919,0.0
+BIOKEY_6,T cell,estrogen-receptor positive breast cancer,113,0.0,-0.14806902,-0.14826588,0.0
+BIOKEY_6,endothelial cell,estrogen-receptor positive breast cancer,21,0.0,0.0854966,0.013754972,0.0
+BIOKEY_6,fibroblast,estrogen-receptor positive breast cancer,95,0.0,0.12033911,0.07593371,0.0
+BIOKEY_6,malignant cell,estrogen-receptor positive breast cancer,231,0.0,-0.0308353,-0.082146056,0.0
+BIOKEY_6,myeloid cell,estrogen-receptor positive breast cancer,53,0.0,-0.116310894,-0.1489362,0.0
+BIOKEY_7,T cell,estrogen-receptor positive breast cancer,9,0.0,-0.115532845,-0.13492793,0.0
+BIOKEY_7,fibroblast,estrogen-receptor positive breast cancer,73,0.0,0.062265426,0.04977327,0.0
+BIOKEY_7,malignant cell,estrogen-receptor positive breast cancer,52,0.0,0.30327767,0.25341326,0.0
+BIOKEY_7,myeloid cell,estrogen-receptor positive breast cancer,17,0.0,-0.10306962,-0.09225896,0.0
+BIOKEY_8,T cell,triple-negative breast carcinoma,42,0.0,-0.015728513,0.033713426,0.0
+BIOKEY_8,malignant cell,triple-negative breast carcinoma,19,0.0,-0.154583,-0.07364392,0.0
+BIOKEY_8,myeloid cell,triple-negative breast carcinoma,27,0.0,-0.044302955,0.0064777364,0.0
+BIOKEY_9,B cell,triple-negative breast carcinoma,29,0.0,-0.17183098,-0.29168245,0.0
+BIOKEY_9,T cell,triple-negative breast carcinoma,40,0.0,-0.17138964,-0.15133592,0.0
+BIOKEY_9,endothelial cell,triple-negative breast carcinoma,11,0.0,0.104637,0.15070504,0.0
+BIOKEY_9,fibroblast,triple-negative breast carcinoma,35,0.0,0.016255755,-0.05526209,0.0
+BIOKEY_9,malignant cell,triple-negative breast carcinoma,157,0.0,-0.23016626,-0.33546624,0.0
+BIOKEY_9,myeloid cell,triple-negative breast carcinoma,14,0.0,0.060500517,-0.04600203,0.0
+BIOKEY_10,B cell,triple-negative breast carcinoma,43,0.0,0.025186453,-0.0793069,0.0
+BIOKEY_10,T cell,triple-negative breast carcinoma,352,0.0,-0.0049548876,-0.011836111,0.0
+BIOKEY_10,endothelial cell,triple-negative breast carcinoma,10,0.0,-0.013631889,0.02342158,0.0
+BIOKEY_10,fibroblast,triple-negative breast carcinoma,31,0.0,0.20316467,0.15765531,0.0
+BIOKEY_10,malignant cell,triple-negative breast carcinoma,207,0.0,-0.27911997,-0.34667644,0.0
+BIOKEY_10,myeloid cell,triple-negative breast carcinoma,57,0.0,0.21672131,0.14854608,0.0
+BIOKEY_11,B cell,triple-negative breast carcinoma,11,0.0,-0.0709128,0.00013391538,0.0
+BIOKEY_11,T cell,triple-negative breast carcinoma,182,0.0,-0.12989223,-0.071406215,0.0
+BIOKEY_11,endothelial cell,triple-negative breast carcinoma,3,0.0,-0.050848972,-0.25347906,0.0
+BIOKEY_11,fibroblast,triple-negative breast carcinoma,5,0.0,0.24452628,0.03957376,0.0
+BIOKEY_11,malignant cell,triple-negative breast carcinoma,49,0.0,-0.073992655,-0.103513815,0.0
+BIOKEY_11,myeloid cell,triple-negative breast carcinoma,35,0.0,0.045484502,0.047363855,0.0
+BIOKEY_12,B cell,estrogen-receptor positive breast cancer,44,0.0,-0.079081476,-0.11001002,0.0
+BIOKEY_12,T cell,estrogen-receptor positive breast cancer,371,0.0,-0.094257176,-0.06458455,0.0
+BIOKEY_12,endothelial cell,estrogen-receptor positive breast cancer,16,0.0,-0.072763346,0.006431116,0.0
+BIOKEY_12,fibroblast,estrogen-receptor positive breast cancer,45,0.0,0.14214703,0.026676832,0.0
+BIOKEY_12,malignant cell,estrogen-receptor positive breast cancer,95,0.0,-0.024982512,-0.023487577,0.0
+BIOKEY_12,mast cell,estrogen-receptor positive breast cancer,7,0.0,-0.267852,-0.29242924,0.0
+BIOKEY_12,myeloid cell,estrogen-receptor positive breast cancer,41,0.0,-0.015610276,0.02202812,0.0
+BIOKEY_12,"plasmacytoid dendritic cell, human",estrogen-receptor positive breast cancer,5,0.0,0.039083198,0.28038016,0.0
+BIOKEY_13,B cell,HER2 positive breast carcinoma,16,0.0,-0.1334018,-0.2550472,0.0
+BIOKEY_13,T cell,HER2 positive breast carcinoma,135,0.0,-0.17068341,-0.24676201,0.0
+BIOKEY_13,endothelial cell,HER2 positive breast carcinoma,28,0.0,0.029533526,0.025040928,0.0
+BIOKEY_13,fibroblast,HER2 positive breast carcinoma,61,0.0,0.046345934,-0.043549668,0.0
+BIOKEY_13,malignant cell,HER2 positive breast carcinoma,6,0.0,-0.05813863,0.067801245,0.0
+BIOKEY_13,myeloid cell,HER2 positive breast carcinoma,16,0.0,-0.064857535,0.091175556,0.0
+BIOKEY_14,B cell,triple-negative breast carcinoma,50,0.0,-0.1503987,-0.19490461,0.0
+BIOKEY_14,T cell,triple-negative breast carcinoma,87,0.0,-0.08793098,-0.057168335,0.0
+BIOKEY_14,endothelial cell,triple-negative breast carcinoma,34,0.0,-0.08203024,-0.10612163,0.0
+BIOKEY_14,fibroblast,triple-negative breast carcinoma,36,0.0,-0.017352255,0.010709232,0.0
+BIOKEY_14,malignant cell,triple-negative breast carcinoma,46,0.0,-0.060471572,-0.075270526,0.0
+BIOKEY_14,myeloid cell,triple-negative breast carcinoma,17,0.0,-0.16860732,-0.05732375,0.0
+BIOKEY_15,B cell,triple-negative breast carcinoma,54,0.0,-0.0054214187,-0.05930917,0.0
+BIOKEY_15,T cell,triple-negative breast carcinoma,265,0.0,-0.057343222,-0.0572996,0.0
+BIOKEY_15,endothelial cell,triple-negative breast carcinoma,12,0.0,-0.039118003,0.07881067,0.0
+BIOKEY_15,fibroblast,triple-negative breast carcinoma,47,0.0,0.14899114,0.2315295,0.0
+BIOKEY_15,malignant cell,triple-negative breast carcinoma,105,0.0,-0.19706313,-0.19326909,0.0
+BIOKEY_15,myeloid cell,triple-negative breast carcinoma,43,0.0,0.12661915,0.15316999,0.0
+BIOKEY_15,"plasmacytoid dendritic cell, human",triple-negative breast carcinoma,4,0.0,-0.025839776,0.3492476,0.0
+BIOKEY_16,B cell,triple-negative breast carcinoma,53,0.0,-0.055948168,-0.09624394,0.0
+BIOKEY_16,T cell,triple-negative breast carcinoma,299,0.0,-0.11752637,-0.116138205,0.0
+BIOKEY_16,endothelial cell,triple-negative breast carcinoma,6,0.0,-0.15961112,-0.276269,0.0
+BIOKEY_16,fibroblast,triple-negative breast carcinoma,6,0.0,0.23033123,0.17093416,0.0
+BIOKEY_16,malignant cell,triple-negative breast carcinoma,134,0.0,-0.10364203,-0.12981915,0.0
+BIOKEY_16,myeloid cell,triple-negative breast carcinoma,130,0.0,0.072365545,0.115355596,0.0
+BIOKEY_16,"plasmacytoid dendritic cell, human",triple-negative breast carcinoma,5,0.0,-0.11584482,-0.017351544,0.0
+BIOKEY_17,T cell,estrogen-receptor positive breast cancer,16,0.0,-0.1664464,-0.18348597,0.0
+BIOKEY_17,endothelial cell,estrogen-receptor positive breast cancer,13,0.0,0.07795364,0.11968545,0.0
+BIOKEY_17,fibroblast,estrogen-receptor positive breast cancer,136,0.0,0.09180048,0.07425562,0.0
+BIOKEY_17,malignant cell,estrogen-receptor positive breast cancer,218,0.0,0.3029121,0.35171956,0.0
+BIOKEY_17,myeloid cell,estrogen-receptor positive breast cancer,16,0.0,-0.08978628,-0.05003732,0.0
+BIOKEY_18,B cell,estrogen-receptor positive breast cancer,27,0.0,-0.1952045,-0.16959865,0.0
+BIOKEY_18,T cell,estrogen-receptor positive breast cancer,136,0.0,-0.19515145,-0.19148204,0.0
+BIOKEY_18,endothelial cell,estrogen-receptor positive breast cancer,52,0.0,-0.05447732,-0.024252623,0.0
+BIOKEY_18,fibroblast,estrogen-receptor positive breast cancer,51,0.0,-0.049578425,-0.07499116,0.0
+BIOKEY_18,malignant cell,estrogen-receptor positive breast cancer,35,0.0,0.23688348,0.08889995,0.0
+BIOKEY_18,myeloid cell,estrogen-receptor positive breast cancer,18,0.0,-0.0967067,-0.19083136,0.0
+BIOKEY_18,"plasmacytoid dendritic cell, human",estrogen-receptor positive breast cancer,3,0.0,-0.14288919,-0.03264005,0.0
+BIOKEY_19,B cell,triple-negative breast carcinoma,45,0.0,-0.0852589,-0.19936,0.0
+BIOKEY_19,T cell,triple-negative breast carcinoma,187,0.0,-0.12714002,-0.069325544,0.0
+BIOKEY_19,endothelial cell,triple-negative breast carcinoma,40,0.0,0.023480106,0.042527657,0.0
+BIOKEY_19,fibroblast,triple-negative breast carcinoma,76,0.0,-0.001474455,0.035635505,0.0
+BIOKEY_19,malignant cell,triple-negative breast carcinoma,90,0.0,0.03644704,0.16590945,0.0
+BIOKEY_19,myeloid cell,triple-negative breast carcinoma,37,0.0,-0.15854977,-0.12528148,0.0
+BIOKEY_20,B cell,estrogen-receptor positive breast cancer,5,0.0,-0.323736,-0.24200687,0.0
+BIOKEY_20,T cell,estrogen-receptor positive breast cancer,89,0.0,-0.07123971,-0.01959004,0.0
+BIOKEY_20,endothelial cell,estrogen-receptor positive breast cancer,14,0.0,0.022037705,-0.038228642,0.0
+BIOKEY_20,fibroblast,estrogen-receptor positive breast cancer,42,0.0,0.020338703,0.11487293,0.0
+BIOKEY_20,malignant cell,estrogen-receptor positive breast cancer,36,0.0,0.008247364,0.05472885,0.0
+BIOKEY_20,myeloid cell,estrogen-receptor positive breast cancer,27,0.0,-0.15828937,-0.23060685,0.0
+BIOKEY_21,T cell,estrogen-receptor positive breast cancer,17,0.0,-0.079737596,0.004988779,0.0
+BIOKEY_21,endothelial cell,estrogen-receptor positive breast cancer,8,0.0,-0.1396073,-0.2569313,0.0
+BIOKEY_21,fibroblast,estrogen-receptor positive breast cancer,22,0.0,0.09792955,0.06474977,0.0
+BIOKEY_21,malignant cell,estrogen-receptor positive breast cancer,299,0.0,-0.061897546,-0.016373325,0.0
+BIOKEY_21,myeloid cell,estrogen-receptor positive breast cancer,26,0.0,0.04092404,0.11781959,0.0
+BIOKEY_22,T cell,estrogen-receptor positive breast cancer,11,0.0,-0.03947302,-0.16782333,0.0
+BIOKEY_22,endothelial cell,estrogen-receptor positive breast cancer,6,0.0,-0.14986736,0.08833023,0.0
+BIOKEY_22,fibroblast,estrogen-receptor positive breast cancer,117,0.0,-0.054202713,-0.09076967,0.0
+BIOKEY_22,malignant cell,estrogen-receptor positive breast cancer,35,0.0,-0.012000747,-0.0039077564,0.0
+BIOKEY_22,myeloid cell,estrogen-receptor positive breast cancer,4,0.0,0.26291335,-0.07347946,0.0
+BIOKEY_23,B cell,HER2 positive breast carcinoma,9,0.0,-0.0965369,-0.22659042,0.0
+BIOKEY_23,T cell,HER2 positive breast carcinoma,50,0.0,-0.11460468,-0.08460848,0.0
+BIOKEY_23,endothelial cell,HER2 positive breast carcinoma,18,0.0,-0.058713324,0.037037708,0.0
+BIOKEY_23,fibroblast,HER2 positive breast carcinoma,31,0.0,0.08903164,0.041125868,0.0
+BIOKEY_23,malignant cell,HER2 positive breast carcinoma,113,0.0,0.1856306,0.19020398,0.0
+BIOKEY_23,myeloid cell,HER2 positive breast carcinoma,63,0.0,-0.17164174,-0.16940427,0.0
+BIOKEY_24,B cell,estrogen-receptor positive breast cancer,5,0.0,-0.14333734,-0.20945081,0.0
+BIOKEY_24,T cell,estrogen-receptor positive breast cancer,54,0.0,-0.249957,-0.17876728,0.0
+BIOKEY_24,endothelial cell,estrogen-receptor positive breast cancer,18,0.0,0.022424318,-0.14579253,0.0
+BIOKEY_24,fibroblast,estrogen-receptor positive breast cancer,53,0.0,0.040551662,0.05161819,0.0
+BIOKEY_24,malignant cell,estrogen-receptor positive breast cancer,127,0.0,0.2697369,0.21598639,0.0
+BIOKEY_24,mast cell,estrogen-receptor positive breast cancer,3,0.0,-0.05526932,-0.15226318,0.0
+BIOKEY_24,myeloid cell,estrogen-receptor positive breast cancer,35,0.0,-0.15351486,-0.12109875,0.0
+BIOKEY_25,B cell,triple-negative breast carcinoma,5,0.0,-0.18449685,-0.20533204,0.0
+BIOKEY_25,T cell,triple-negative breast carcinoma,25,0.0,-0.16425,-0.1451979,0.0
+BIOKEY_25,fibroblast,triple-negative breast carcinoma,5,0.0,0.18411559,-0.08775203,0.0
+BIOKEY_25,malignant cell,triple-negative breast carcinoma,5,0.0,-0.13477312,-0.18678305,0.0
+BIOKEY_26,T cell,triple-negative breast carcinoma,9,0.0,-0.14146772,-0.117917046,0.0
+BIOKEY_26,endothelial cell,triple-negative breast carcinoma,4,0.0,-0.2531994,-0.3741652,0.0
+BIOKEY_26,fibroblast,triple-negative breast carcinoma,7,0.0,0.28479084,0.13423143,0.0
+BIOKEY_26,malignant cell,triple-negative breast carcinoma,470,0.0,-0.028326215,-0.057891537,0.0
+BIOKEY_26,myeloid cell,triple-negative breast carcinoma,21,0.0,0.0127837295,-0.00878327,0.0
+BIOKEY_27,B cell,estrogen-receptor positive breast cancer,8,0.0,-0.2667315,-0.38330263,0.0
+BIOKEY_27,T cell,estrogen-receptor positive breast cancer,82,0.0,-0.16406089,-0.18050152,0.0
+BIOKEY_27,endothelial cell,estrogen-receptor positive breast cancer,29,0.0,0.10551895,0.13956527,0.0
+BIOKEY_27,fibroblast,estrogen-receptor positive breast cancer,124,0.0,0.05740136,0.026717793,0.0
+BIOKEY_27,malignant cell,estrogen-receptor positive breast cancer,27,0.0,0.08479701,0.066835135,0.0
+BIOKEY_27,myeloid cell,estrogen-receptor positive breast cancer,14,0.0,-0.053452127,-0.14839336,0.0
+BIOKEY_28,B cell,HER2 positive breast carcinoma,6,0.0,-0.1133967,0.012099739,0.0
+BIOKEY_28,T cell,HER2 positive breast carcinoma,103,0.0,-0.021222228,0.026427737,0.0
+BIOKEY_28,endothelial cell,HER2 positive breast carcinoma,16,0.0,0.039250735,-0.12988514,0.0
+BIOKEY_28,fibroblast,HER2 positive breast carcinoma,21,0.0,0.07123403,0.02666526,0.0
+BIOKEY_28,malignant cell,HER2 positive breast carcinoma,40,0.0,0.030208291,0.048375733,0.0
+BIOKEY_28,myeloid cell,HER2 positive breast carcinoma,74,0.0,0.09947264,0.09999265,0.0
+BIOKEY_29,B cell,estrogen-receptor positive breast cancer,8,0.0,-0.19579819,-0.13887739,0.0
+BIOKEY_29,T cell,estrogen-receptor positive breast cancer,24,0.0,-0.12116698,-0.13443866,0.0
+BIOKEY_29,endothelial cell,estrogen-receptor positive breast cancer,7,0.0,0.19139245,0.0928673,0.0
+BIOKEY_29,fibroblast,estrogen-receptor positive breast cancer,11,0.0,0.21866462,0.26276395,0.0
+BIOKEY_29,malignant cell,estrogen-receptor positive breast cancer,23,0.0,-0.015914297,0.05166188,0.0
+BIOKEY_29,myeloid cell,estrogen-receptor positive breast cancer,3,0.0,-0.23938715,0.12146359,0.0
+BIOKEY_30,B cell,estrogen-receptor positive breast cancer,3,0.0,0.02874704,-0.17769009,0.0
+BIOKEY_30,T cell,estrogen-receptor positive breast cancer,10,0.0,-0.13587677,-0.18668114,0.0
+BIOKEY_30,endothelial cell,estrogen-receptor positive breast cancer,24,0.0,0.0828199,0.1160053,0.0
+BIOKEY_30,fibroblast,estrogen-receptor positive breast cancer,25,0.0,0.13547638,0.122252084,0.0
+BIOKEY_30,malignant cell,estrogen-receptor positive breast cancer,373,0.0,0.22173193,0.21479622,0.0
+BIOKEY_30,myeloid cell,estrogen-receptor positive breast cancer,25,0.0,-0.017375398,-0.01107949,0.0
+BIOKEY_31,B cell,triple-negative breast carcinoma,13,0.0,-0.23208988,-0.14761764,0.0
+BIOKEY_31,T cell,triple-negative breast carcinoma,140,0.0,-0.18912727,-0.15292796,0.0
+BIOKEY_31,fibroblast,triple-negative breast carcinoma,11,0.0,0.09361227,0.15867561,0.0
+BIOKEY_31,malignant cell,triple-negative breast carcinoma,219,0.0,0.088213615,0.12956062,0.0
+BIOKEY_31,myeloid cell,triple-negative breast carcinoma,62,0.0,-0.020366464,-0.02589557,0.0
+BIOKEY_32,T cell,estrogen-receptor positive breast cancer,11,0.0,-0.13618666,-0.21249056,0.0
+BIOKEY_32,endothelial cell,estrogen-receptor positive breast cancer,32,0.0,-0.13660756,-0.20902127,0.0
+BIOKEY_32,fibroblast,estrogen-receptor positive breast cancer,25,0.0,-0.0067103016,-0.13020371,0.0
+BIOKEY_32,malignant cell,estrogen-receptor positive breast cancer,7,0.0,-0.10916168,-0.189983,0.0
+BIOKEY_33,B cell,triple-negative breast carcinoma,39,0.0,-0.24050847,-0.33585608,0.0
+BIOKEY_33,T cell,triple-negative breast carcinoma,208,0.0,-0.079621844,-0.07889375,0.0
+BIOKEY_33,endothelial cell,triple-negative breast carcinoma,42,0.0,0.09475823,0.00603869,0.0
+BIOKEY_33,fibroblast,triple-negative breast carcinoma,28,0.0,-0.027376663,-0.049709953,0.0
+BIOKEY_33,malignant cell,triple-negative breast carcinoma,7,0.0,-0.21547455,-0.36469248,0.0
+BIOKEY_33,myeloid cell,triple-negative breast carcinoma,18,0.0,0.037712302,-0.028362446,0.0
+BIOKEY_34,T cell,triple-negative breast carcinoma,48,0.0,-0.22163515,-0.23068182,0.0
+BIOKEY_34,endothelial cell,triple-negative breast carcinoma,17,0.0,-0.16440977,-0.12098929,0.0
+BIOKEY_34,fibroblast,triple-negative breast carcinoma,54,0.0,0.07074473,-0.007809948,0.0
+BIOKEY_34,myeloid cell,triple-negative breast carcinoma,105,0.0,-0.11097494,-0.19146432,0.0
+BIOKEY_35,B cell,triple-negative breast carcinoma,25,0.0,-0.018354535,-0.10326631,0.0
+BIOKEY_35,T cell,triple-negative breast carcinoma,243,0.0,-0.056318834,-0.043991968,0.0
+BIOKEY_35,endothelial cell,triple-negative breast carcinoma,20,0.0,0.010062182,0.039174754,0.0
+BIOKEY_35,fibroblast,triple-negative breast carcinoma,16,0.0,0.1880488,0.15434453,0.0
+BIOKEY_35,malignant cell,triple-negative breast carcinoma,309,0.0,-0.18102166,-0.23344989,0.0
+BIOKEY_35,myeloid cell,triple-negative breast carcinoma,149,0.0,0.028826496,0.07955021,0.0
+BIOKEY_35,"plasmacytoid dendritic cell, human",triple-negative breast carcinoma,13,0.0,0.06474383,0.08438424,0.0
+BIOKEY_36,B cell,triple-negative breast carcinoma,14,0.0,-0.16445923,-0.14929795,0.0
+BIOKEY_36,T cell,triple-negative breast carcinoma,149,0.0,-0.15399325,-0.095849045,0.0
+BIOKEY_36,endothelial cell,triple-negative breast carcinoma,63,0.0,0.080476895,0.031946827,0.0
+BIOKEY_36,fibroblast,triple-negative breast carcinoma,195,0.0,-0.1242227,-0.09732633,0.0
+BIOKEY_36,malignant cell,triple-negative breast carcinoma,5,0.0,-0.18915766,-0.13530692,0.0
+BIOKEY_36,myeloid cell,triple-negative breast carcinoma,36,0.0,0.011337342,-0.004321816,0.0
+BIOKEY_37,B cell,estrogen-receptor positive breast cancer,4,0.0,-0.25413322,-0.23846674,0.0
+BIOKEY_37,T cell,estrogen-receptor positive breast cancer,74,0.0,-0.1524781,-0.20528881,0.0
+BIOKEY_37,endothelial cell,estrogen-receptor positive breast cancer,25,0.0,0.10100809,0.0063910508,0.0
+BIOKEY_37,fibroblast,estrogen-receptor positive breast cancer,52,0.0,-0.08860558,-0.07144405,0.0
+BIOKEY_37,malignant cell,estrogen-receptor positive breast cancer,62,0.0,-0.09709129,-0.11043778,0.0
+BIOKEY_37,myeloid cell,estrogen-receptor positive breast cancer,36,0.0,-0.15476295,-0.18732788,0.0
+BIOKEY_38,T cell,HER2 positive breast carcinoma,18,0.0,-0.12903869,-0.18148132,0.0
+BIOKEY_38,endothelial cell,HER2 positive breast carcinoma,70,0.0,-0.04235728,-0.13075684,0.0
+BIOKEY_38,fibroblast,HER2 positive breast carcinoma,103,0.0,0.050324522,0.04760242,0.0
+BIOKEY_38,malignant cell,HER2 positive breast carcinoma,16,0.0,-0.072647,0.04296907,0.0
+BIOKEY_38,myeloid cell,HER2 positive breast carcinoma,5,0.0,-0.0073234914,-0.012391448,0.0
+BIOKEY_39,T cell,triple-negative breast carcinoma,26,0.0,-0.21540841,-0.30232164,0.0
+BIOKEY_39,endothelial cell,triple-negative breast carcinoma,19,0.0,-0.069392055,-0.025654512,0.0
+BIOKEY_39,fibroblast,triple-negative breast carcinoma,64,0.0,-0.065996096,-0.04741162,0.0
+BIOKEY_39,malignant cell,triple-negative breast carcinoma,13,0.0,0.085249856,-0.01062798,0.0
+BIOKEY_39,myeloid cell,triple-negative breast carcinoma,11,0.0,-0.05967509,0.011764267,0.0
+BIOKEY_40,T cell,estrogen-receptor positive breast cancer,54,0.0,-0.17693007,-0.17335364,0.0
+BIOKEY_40,endothelial cell,estrogen-receptor positive breast cancer,16,0.0,0.032613173,0.045630038,0.0
+BIOKEY_40,fibroblast,estrogen-receptor positive breast cancer,71,0.0,-0.07333471,-0.07873567,0.0
+BIOKEY_40,malignant cell,estrogen-receptor positive breast cancer,9,0.0,-0.3051501,-0.39633036,0.0
+BIOKEY_40,myeloid cell,estrogen-receptor positive breast cancer,28,0.0,-0.16761255,-0.14537944,0.0
+BIOKEY_41,T cell,triple-negative breast carcinoma,83,0.0,-0.08493458,-0.09887414,0.0
+BIOKEY_41,endothelial cell,triple-negative breast carcinoma,17,0.0,-0.073370926,0.03145387,0.0
+BIOKEY_41,fibroblast,triple-negative breast carcinoma,37,0.0,-0.010394605,0.020383636,0.0
+BIOKEY_41,malignant cell,triple-negative breast carcinoma,222,0.0,-0.16909887,-0.17934936,0.0
+BIOKEY_41,myeloid cell,triple-negative breast carcinoma,26,0.0,0.12479949,0.015828418,0.0
+BIOKEY_42,T cell,estrogen-receptor positive breast cancer,29,0.0,-0.26748037,-0.2898575,0.0
+BIOKEY_42,endothelial cell,estrogen-receptor positive breast cancer,21,0.0,-0.13491154,-0.08199906,0.0
+BIOKEY_42,fibroblast,estrogen-receptor positive breast cancer,83,0.0,-0.052082274,-0.10236113,0.0
+BIOKEY_42,malignant cell,estrogen-receptor positive breast cancer,29,0.0,0.17856047,0.16259652,0.0
+BIOKEY_42,myeloid cell,estrogen-receptor positive breast cancer,10,0.0,-0.18460304,-0.22280352,0.0
+CID3586,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,377,0.0,-0.22518528,-0.25855416,0.0
+CID3586,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,187,0.0,-0.21473747,-0.27567405,0.0
+CID3586,T cell,invasive ductal breast carcinoma,6,0.0,-0.19372791,-0.13020003,0.0
+CID3586,basal-myoepithelial cell of mammary gland,invasive ductal breast carcinoma,10,0.0,-0.21181014,-0.14373192,0.0
+CID3586,endothelial cell,invasive ductal breast carcinoma,19,0.0,-0.1823645,-0.2523741,0.0
+CID3586,endothelial cell of lymphatic vessel,invasive ductal breast carcinoma,3,0.0,-0.09254505,-0.4740604,0.0
+CID3586,fibroblast of breast,invasive ductal breast carcinoma,29,0.0,-0.15283088,-0.22857656,0.0
+CID3586,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,35,0.0,0.042685412,0.09584908,0.0
+CID3586,macrophage,invasive ductal breast carcinoma,23,0.0,-0.19404575,-0.1345731,0.0
+CID3586,mature NK T cell,invasive ductal breast carcinoma,6,0.0,-0.03444778,-0.30046037,0.0
+CID3586,memory B cell,invasive ductal breast carcinoma,31,0.0,-0.23082745,-0.28640327,0.0
+CID3586,myeloid cell,invasive ductal breast carcinoma,7,0.0,-0.09159066,-0.02426554,0.0
+CID3586,naive B cell,invasive ductal breast carcinoma,4,0.0,-0.29474002,-0.37714988,0.0
+CID3586,natural killer cell,invasive ductal breast carcinoma,21,0.0,-0.14716846,-0.22033732,0.0
+CID3586,pericyte,invasive ductal breast carcinoma,3,0.0,0.13459164,-0.0499365,0.0
+CID3838,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,132,0.0,-0.08420417,-0.01875917,0.0
+CID3838,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,50,0.0,-0.019531246,-0.017565487,0.0
+CID3838,T cell,invasive ductal breast carcinoma,4,0.0,0.36980617,0.43319538,0.0
+CID3838,endothelial cell,invasive ductal breast carcinoma,11,0.0,0.46946722,0.48439944,0.0
+CID3838,fibroblast of breast,invasive ductal breast carcinoma,24,0.0,0.7548774,0.7301257,0.0
+CID3838,macrophage,invasive ductal breast carcinoma,41,0.0,0.8771467,0.84125453,0.0
+CID3838,memory B cell,invasive ductal breast carcinoma,10,0.0,-0.14827192,-0.04298498,0.0
+CID3838,monocyte,invasive ductal breast carcinoma,9,0.0,0.61473477,0.62293833,0.0
+CID3838,myeloid cell,invasive ductal breast carcinoma,4,0.0,0.47226286,0.37556577,0.0
+CID3838,natural killer cell,invasive ductal breast carcinoma,12,0.0,-0.13597949,-0.19967549,0.0
+CID3838,pericyte,invasive ductal breast carcinoma,18,0.0,0.2939676,0.29095212,0.0
+CID3838,plasmablast,invasive ductal breast carcinoma,5,0.0,-0.061461627,0.0217534,0.0
+CID3921,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,139,0.0,-0.18848589,-0.19994861,0.0
+CID3921,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,51,0.0,-0.12547685,-0.16882795,0.0
+CID3921,endothelial cell,invasive ductal breast carcinoma,22,0.0,-0.06668438,-0.014842039,0.0
+CID3921,fibroblast of breast,invasive ductal breast carcinoma,14,0.0,0.01625366,0.1905204,0.0
+CID3921,macrophage,invasive ductal breast carcinoma,34,0.0,0.21804109,0.1908627,0.0
+CID3921,mammary gland epithelial cell,invasive ductal breast carcinoma,50,0.0,0.7911841,0.7010043,0.0
+CID3921,mature NK T cell,invasive ductal breast carcinoma,3,0.0,-0.25714925,-0.2964676,0.0
+CID3921,memory B cell,invasive ductal breast carcinoma,22,0.0,-0.18824956,-0.22879629,0.0
+CID3921,monocyte,invasive ductal breast carcinoma,11,0.0,0.030320063,0.052180942,0.0
+CID3921,myeloid cell,invasive ductal breast carcinoma,9,0.0,0.19566303,0.17717957,0.0
+CID3921,natural killer cell,invasive ductal breast carcinoma,7,0.0,-0.22195709,-0.23378997,0.0
+CID3921,pericyte,invasive ductal breast carcinoma,7,0.0,-0.20319565,-0.2823523,0.0
+CID3921,plasmablast,invasive ductal breast carcinoma,25,0.0,-0.17802766,-0.2507155,0.0
+CID3941,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,22,0.0,-0.24259716,-0.2694588,0.0
+CID3941,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,14,0.0,-0.17415409,-0.26392415,0.0
+CID3941,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,25,0.0,0.030913599,0.11745875,0.0
+CID3941,macrophage,invasive ductal breast carcinoma,4,0.0,-0.35003614,-0.40178323,0.0
+CID3941,memory B cell,invasive ductal breast carcinoma,10,0.0,-0.25683525,-0.3182068,0.0
+CID3941,pericyte,invasive ductal breast carcinoma,3,0.0,0.29279503,0.15599446,0.0
+CID3946,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,6,0.0,-0.23185633,-0.38245693,0.0
+CID3946,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,5,0.0,-0.032897428,0.083530866,0.0
+CID3946,endothelial cell,invasive ductal breast carcinoma,19,0.0,-0.2689848,-0.4512285,0.0
+CID3946,fibroblast of breast,invasive ductal breast carcinoma,17,0.0,-0.20661512,-0.142179,0.0
+CID3946,macrophage,invasive ductal breast carcinoma,9,0.0,-0.24989387,-0.23091687,0.0
+CID3946,monocyte,invasive ductal breast carcinoma,4,0.0,-0.26630843,-0.3906744,0.0
+CID3946,pericyte,invasive ductal breast carcinoma,32,0.0,-0.280442,-0.2730734,0.0
+CID3948,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,113,0.0,-0.27172226,-0.3594911,0.0
+CID3948,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,59,0.0,-0.26966783,-0.36150223,0.0
+CID3948,T cell,invasive ductal breast carcinoma,4,0.0,-0.04506303,-0.15231293,0.0
+CID3948,endothelial cell,invasive ductal breast carcinoma,8,0.0,-0.24798712,-0.34412286,0.0
+CID3948,fibroblast of breast,invasive ductal breast carcinoma,3,0.0,-0.16857877,-0.24231267,0.0
+CID3948,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,31,0.0,0.18038109,0.2584813,0.0
+CID3948,macrophage,invasive ductal breast carcinoma,14,0.0,-0.1300247,-0.13062315,0.0
+CID3948,mature NK T cell,invasive ductal breast carcinoma,4,0.0,-0.29056674,-0.3907875,0.0
+CID3948,memory B cell,invasive ductal breast carcinoma,12,0.0,-0.26521406,-0.3487991,0.0
+CID3948,monocyte,invasive ductal breast carcinoma,4,0.0,-0.24719124,-0.27027574,0.0
+CID3948,myeloid cell,invasive ductal breast carcinoma,3,0.0,0.016642539,0.1379904,0.0
+CID3948,natural killer cell,invasive ductal breast carcinoma,9,0.0,-0.2650358,-0.30652267,0.0
+CID3948,pericyte,invasive ductal breast carcinoma,13,0.0,-0.12848358,-0.15821733,0.0
+CID3948,plasmablast,invasive ductal breast carcinoma,27,0.0,-0.18370056,-0.37071168,0.0
+CID3963,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,126,0.0,-0.20508096,-0.1946923,0.0
+CID3963,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,146,0.0,-0.18702088,-0.19530675,0.0
+CID3963,T cell,invasive ductal breast carcinoma,10,0.0,-0.051668644,-0.09411975,0.0
+CID3963,endothelial cell,invasive ductal breast carcinoma,6,0.0,-0.036211587,-0.17590721,0.0
+CID3963,fibroblast of breast,invasive ductal breast carcinoma,3,0.0,0.14550637,0.043865412,0.0
+CID3963,macrophage,invasive ductal breast carcinoma,53,0.0,-0.062865265,-0.08577182,0.0
+CID3963,mammary gland epithelial cell,invasive ductal breast carcinoma,28,0.0,0.27037948,0.16050075,0.0
+CID3963,mature NK T cell,invasive ductal breast carcinoma,15,0.0,-0.17973715,-0.21979205,0.0
+CID3963,monocyte,invasive ductal breast carcinoma,14,0.0,0.063431606,-0.04378792,0.0
+CID3963,myeloid cell,invasive ductal breast carcinoma,6,0.0,0.0997947,0.1618581,0.0
+CID3963,natural killer cell,invasive ductal breast carcinoma,36,0.0,-0.1161988,-0.13771339,0.0
+CID4040,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,88,0.0,-0.15530622,-0.12009433,0.0
+CID4040,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,84,0.0,-0.10973114,-0.013588445,0.0
+CID4040,T cell,invasive ductal breast carcinoma,5,0.0,0.13902551,0.27419376,0.0
+CID4040,endothelial cell,invasive ductal breast carcinoma,16,0.0,0.5782752,0.43665147,0.0
+CID4040,fibroblast of breast,invasive ductal breast carcinoma,13,0.0,0.3624702,0.39674485,0.0
+CID4040,macrophage,invasive ductal breast carcinoma,3,0.0,0.28396165,-0.17482571,0.0
+CID4040,mature NK T cell,invasive ductal breast carcinoma,5,0.0,0.07978356,-0.02217814,0.0
+CID4040,memory B cell,invasive ductal breast carcinoma,14,0.0,-0.147004,-0.18151605,0.0
+CID4040,natural killer cell,invasive ductal breast carcinoma,8,0.0,-0.111413494,-0.086706445,0.0
+CID4040,pericyte,invasive ductal breast carcinoma,64,0.0,0.3470897,0.40407902,0.0
+CID4040,plasmablast,invasive ductal breast carcinoma,11,0.0,-0.19624239,-0.28980485,0.0
+CID4066,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,168,0.0,-0.23582298,-0.31661567,0.0
+CID4066,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,122,0.0,-0.26144803,-0.3258166,0.0
+CID4066,T cell,invasive ductal breast carcinoma,8,0.0,0.14108124,0.037663978,0.0
+CID4066,basal-myoepithelial cell of mammary gland,invasive ductal breast carcinoma,7,0.0,-0.0032309112,0.133862,0.0
+CID4066,endothelial cell,invasive ductal breast carcinoma,71,0.0,-0.0819487,-0.16014111,0.0
+CID4066,fibroblast of breast,invasive ductal breast carcinoma,120,0.0,0.023901049,-0.0006944711,0.0
+CID4066,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,11,0.0,0.25297108,0.63447315,0.0
+CID4066,macrophage,invasive ductal breast carcinoma,14,0.0,-0.02622623,0.01788415,0.0
+CID4066,mammary gland epithelial cell,invasive ductal breast carcinoma,69,0.0,0.44616705,0.5178715,0.0
+CID4066,mature NK T cell,invasive ductal breast carcinoma,3,0.0,-0.19045386,-0.3087815,0.0
+CID4066,memory B cell,invasive ductal breast carcinoma,5,0.0,-0.28425637,-0.23534742,0.0
+CID4066,monocyte,invasive ductal breast carcinoma,8,0.0,0.052751962,0.08665028,0.0
+CID4066,natural killer cell,invasive ductal breast carcinoma,12,0.0,-0.16399342,-0.27673405,0.0
+CID4066,pericyte,invasive ductal breast carcinoma,83,0.0,-0.08304645,-0.050514825,0.0
+CID4067,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,39,0.0,-0.2526807,-0.38748077,0.0
+CID4067,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,38,0.0,-0.23748225,-0.3751023,0.0
+CID4067,endothelial cell,invasive ductal breast carcinoma,24,0.0,-0.11750172,-0.23672068,0.0
+CID4067,fibroblast of breast,invasive ductal breast carcinoma,17,0.0,-0.19671136,-0.27457252,0.0
+CID4067,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,276,0.0,0.06202407,0.041229084,0.0
+CID4067,macrophage,invasive ductal breast carcinoma,34,0.0,-0.15983838,-0.21667403,0.0
+CID4067,mammary gland epithelial cell,invasive ductal breast carcinoma,13,0.0,0.212502,0.21352747,0.0
+CID4067,mature NK T cell,invasive ductal breast carcinoma,3,0.0,-0.35003614,-0.3020536,0.0
+CID4067,memory B cell,invasive ductal breast carcinoma,7,0.0,-0.3196837,-0.33863124,0.0
+CID4067,monocyte,invasive ductal breast carcinoma,5,0.0,-0.06484179,-0.0889043,0.0
+CID4067,myeloid cell,invasive ductal breast carcinoma,6,0.0,-0.16162491,-0.02185644,0.0
+CID4067,natural killer cell,invasive ductal breast carcinoma,4,0.0,-0.30272692,-0.4044175,0.0
+CID4067,pericyte,invasive ductal breast carcinoma,8,0.0,-0.25095153,-0.26257998,0.0
+CID4290A,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,51,0.0,-0.26142663,-0.39164865,0.0
+CID4290A,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,12,0.0,-0.21993312,-0.3856491,0.0
+CID4290A,endothelial cell,invasive ductal breast carcinoma,41,0.0,-0.14597149,-0.15828879,0.0
+CID4290A,fibroblast of breast,invasive ductal breast carcinoma,48,0.0,-0.14647959,-0.26916298,0.0
+CID4290A,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,490,0.0,0.116943285,0.1200239,0.0
+CID4290A,macrophage,invasive ductal breast carcinoma,44,0.0,-0.20818031,-0.22191124,0.0
+CID4290A,mammary gland epithelial cell,invasive ductal breast carcinoma,61,0.0,0.09347287,0.03143514,0.0
+CID4290A,memory B cell,invasive ductal breast carcinoma,17,0.0,-0.26236665,-0.4452306,0.0
+CID4290A,monocyte,invasive ductal breast carcinoma,4,0.0,-0.22798298,-0.38185635,0.0
+CID4290A,myeloid cell,invasive ductal breast carcinoma,8,0.0,-0.14770116,-0.2481668,0.0
+CID4290A,natural killer cell,invasive ductal breast carcinoma,9,0.0,-0.23335302,-0.44875827,0.0
+CID4290A,pericyte,invasive ductal breast carcinoma,23,0.0,-0.1909706,-0.29736376,0.0
+CID4398,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,337,0.0,-0.29434592,-0.3219902,0.0
+CID4398,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,125,0.0,-0.28786007,-0.31126192,0.0
+CID4398,T cell,invasive ductal breast carcinoma,10,0.0,0.08733709,-0.10091116,0.0
+CID4398,endothelial cell,invasive ductal breast carcinoma,9,0.0,-0.020275528,-0.037500385,0.0
+CID4398,fibroblast of breast,invasive ductal breast carcinoma,23,0.0,-0.23352736,-0.12900923,0.0
+CID4398,macrophage,invasive ductal breast carcinoma,10,0.0,-0.1527017,-0.05719649,0.0
+CID4398,mature NK T cell,invasive ductal breast carcinoma,21,0.0,-0.2501722,-0.25686336,0.0
+CID4398,memory B cell,invasive ductal breast carcinoma,5,0.0,-0.27866638,-0.3599921,0.0
+CID4398,monocyte,invasive ductal breast carcinoma,11,0.0,-0.14491017,-0.2666273,0.0
+CID4398,myeloid cell,invasive ductal breast carcinoma,12,0.0,-0.174455,-0.14870559,0.0
+CID4398,natural killer cell,invasive ductal breast carcinoma,28,0.0,-0.3100871,-0.29781184,0.0
+CID4398,pericyte,invasive ductal breast carcinoma,9,0.0,-0.10204204,-0.1077669,0.0
+CID4398,plasmablast,invasive ductal breast carcinoma,8,0.0,-0.3003065,-0.3455486,0.0
+CID4461,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,8,0.0,-0.29606527,-0.3706043,0.0
+CID4461,endothelial cell,invasive ductal breast carcinoma,24,0.0,-0.23499474,-0.37578347,0.0
+CID4461,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,27,0.0,-0.14615963,-0.012246709,0.0
+CID4461,macrophage,invasive ductal breast carcinoma,8,0.0,-0.22920889,-0.37433362,0.0
+CID4461,mammary gland epithelial cell,invasive ductal breast carcinoma,5,0.0,-0.11054826,0.28916457,0.0
+CID4461,myeloid cell,invasive ductal breast carcinoma,3,0.0,-0.35003614,-0.3837433,0.0
+CID4461,plasmablast,invasive ductal breast carcinoma,8,0.0,-0.2695507,-0.21515723,0.0
+CID4463,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,13,0.0,-0.20020857,-0.2814906,0.0
+CID4463,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,17,0.0,-0.21362573,-0.36784315,0.0
+CID4463,endothelial cell,invasive ductal breast carcinoma,10,0.0,0.050770253,-0.07074337,0.0
+CID4463,fibroblast of breast,invasive ductal breast carcinoma,3,0.0,0.44614086,0.3931736,0.0
+CID4463,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,74,0.0,0.346785,0.32872027,0.0
+CID4463,macrophage,invasive ductal breast carcinoma,9,0.0,-0.08909299,-0.07662382,0.0
+CID4463,mammary gland epithelial cell,invasive ductal breast carcinoma,5,0.0,0.28913414,0.20936175,0.0
+CID4463,mature NK T cell,invasive ductal breast carcinoma,5,0.0,-0.18033746,-0.15260388,0.0
+CID4463,pericyte,invasive ductal breast carcinoma,7,0.0,-0.20269817,-0.3573665,0.0
+CID4465,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,13,0.0,-0.27452016,-0.34850073,0.0
+CID4465,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,4,0.0,-0.29961634,-0.4030585,0.0
+CID4465,endothelial cell,invasive ductal breast carcinoma,44,0.0,-0.19642816,-0.3348324,0.0
+CID4465,endothelial cell of lymphatic vessel,invasive ductal breast carcinoma,3,0.0,-0.27520126,-0.524806,0.0
+CID4465,fibroblast of breast,invasive ductal breast carcinoma,46,0.0,-0.2735674,-0.34474882,0.0
+CID4465,macrophage,invasive ductal breast carcinoma,19,0.0,-0.24004152,-0.2865343,0.0
+CID4465,mammary gland epithelial cell,invasive ductal breast carcinoma,23,0.0,-0.0743624,-0.15147097,0.0
+CID4465,mature NK T cell,invasive ductal breast carcinoma,3,0.0,-0.29670772,-0.3445735,0.0
+CID4465,memory B cell,invasive ductal breast carcinoma,3,0.0,-0.35003614,-0.24851342,0.0
+CID4465,myeloid cell,invasive ductal breast carcinoma,6,0.0,-0.30472127,-0.3605727,0.0
+CID4465,pericyte,invasive ductal breast carcinoma,42,0.0,-0.2824736,-0.44527835,0.0
+CID4465,plasmablast,invasive ductal breast carcinoma,16,0.0,-0.30636048,-0.38366812,0.0
+CID4471,"CD4-positive, alpha-beta T cell",invasive lobular breast carcinoma,49,0.0,-0.21709457,-0.10559603,0.0
+CID4471,"CD8-positive, alpha-beta T cell",invasive lobular breast carcinoma,20,0.0,-0.20052205,-0.25224474,0.0
+CID4471,basal-myoepithelial cell of mammary gland,invasive lobular breast carcinoma,42,0.0,-0.09969449,-0.06439435,0.0
+CID4471,endothelial cell,invasive lobular breast carcinoma,355,0.0,0.0699574,0.102189206,0.0
+CID4471,endothelial cell of lymphatic vessel,invasive lobular breast carcinoma,7,0.0,-0.074065946,-0.024947304,0.0
+CID4471,fibroblast of breast,invasive lobular breast carcinoma,194,0.0,-0.038758993,0.062479973,0.0
+CID4471,luminal epithelial cell of mammary gland,invasive lobular breast carcinoma,100,0.0,0.24955106,0.32171962,0.0
+CID4471,macrophage,invasive lobular breast carcinoma,23,0.0,-0.1508531,-0.035544038,0.0
+CID4471,mammary gland epithelial cell,invasive lobular breast carcinoma,3,0.0,0.39944106,0.46211186,0.0
+CID4471,mature NK T cell,invasive lobular breast carcinoma,4,0.0,-0.24301417,-0.0008305004,0.0
+CID4471,memory B cell,invasive lobular breast carcinoma,16,0.0,-0.23526879,-0.1577375,0.0
+CID4471,monocyte,invasive lobular breast carcinoma,9,0.0,-0.052327428,0.23890723,0.0
+CID4471,myeloid cell,invasive lobular breast carcinoma,4,0.0,0.07148506,0.3244862,0.0
+CID4471,natural killer cell,invasive lobular breast carcinoma,4,0.0,-0.19780667,-0.22524266,0.0
+CID4471,pericyte,invasive lobular breast carcinoma,166,0.0,-0.10446846,0.004422426,0.0
+CID4471,plasmablast,invasive lobular breast carcinoma,6,0.0,-0.12411634,0.102690935,0.0
+CID4495,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,233,0.0,-0.09602298,-0.04172329,0.0
+CID4495,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,148,0.0,-0.137266,-0.111371696,0.0
+CID4495,T cell,invasive ductal breast carcinoma,59,0.0,0.118029095,0.09741655,0.0
+CID4495,endothelial cell,invasive ductal breast carcinoma,13,0.0,0.321818,0.3242142,0.0
+CID4495,endothelial cell of lymphatic vessel,invasive ductal breast carcinoma,4,0.0,-0.3264227,-0.2650781,0.0
+CID4495,fibroblast of breast,invasive ductal breast carcinoma,23,0.0,0.13762923,0.14444691,0.0
+CID4495,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,3,0.0,-0.16259353,-0.075844,0.0
+CID4495,macrophage,invasive ductal breast carcinoma,74,0.0,0.11654112,0.18620522,0.0
+CID4495,mammary gland epithelial cell,invasive ductal breast carcinoma,153,0.0,0.095332876,0.18510832,0.0
+CID4495,mature NK T cell,invasive ductal breast carcinoma,5,0.0,-0.2301105,-0.05286036,0.0
+CID4495,memory B cell,invasive ductal breast carcinoma,67,0.0,-0.15431914,-0.16034965,0.0
+CID4495,monocyte,invasive ductal breast carcinoma,21,0.0,-0.09228717,0.04947371,0.0
+CID4495,myeloid cell,invasive ductal breast carcinoma,15,0.0,0.1921741,0.27557176,0.0
+CID4495,naive B cell,invasive ductal breast carcinoma,33,0.0,-0.17385313,-0.15787107,0.0
+CID4495,natural killer cell,invasive ductal breast carcinoma,7,0.0,-0.2521453,-0.20275746,0.0
+CID4495,pericyte,invasive ductal breast carcinoma,22,0.0,0.0043109814,-0.047604647,0.0
+CID4495,plasmablast,invasive ductal breast carcinoma,144,0.0,-0.07054141,-0.13011977,0.0
+CID4513,"CD4-positive, alpha-beta T cell",breast carcinoma,71,0.0,-0.12751824,-0.08030362,0.0
+CID4513,"CD8-positive, alpha-beta T cell",breast carcinoma,53,0.0,-0.16485325,-0.20308644,0.0
+CID4513,T cell,breast carcinoma,26,0.0,0.15913987,0.20021528,0.0
+CID4513,endothelial cell,breast carcinoma,26,0.0,0.29339045,0.25682122,0.0
+CID4513,macrophage,breast carcinoma,250,0.0,0.044244148,0.16274449,0.0
+CID4513,mammary gland epithelial cell,breast carcinoma,131,0.0,0.35475937,0.38991866,0.0
+CID4513,mature NK T cell,breast carcinoma,7,0.0,-0.2071976,-0.13432127,0.0
+CID4513,memory B cell,breast carcinoma,7,0.0,-0.21511176,0.11661383,0.0
+CID4513,monocyte,breast carcinoma,97,0.0,0.08082107,0.09768302,0.0
+CID4513,myeloid cell,breast carcinoma,34,0.0,0.2694978,0.37166646,0.0
+CID4513,natural killer cell,breast carcinoma,29,0.0,-0.12633216,-0.09937509,0.0
+CID4513,pericyte,breast carcinoma,11,0.0,0.18801728,0.20352735,0.0
+CID4515,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,31,0.0,-0.21183082,-0.31966323,0.0
+CID4515,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,10,0.0,-0.25821054,-0.2555929,0.0
+CID4515,endothelial cell,invasive ductal breast carcinoma,15,0.0,0.033820525,-0.15431954,0.0
+CID4515,fibroblast of breast,invasive ductal breast carcinoma,29,0.0,0.15929091,0.14059617,0.0
+CID4515,macrophage,invasive ductal breast carcinoma,44,0.0,-0.046403088,-0.13511527,0.0
+CID4515,mammary gland epithelial cell,invasive ductal breast carcinoma,258,0.0,0.44728625,0.37918422,0.0
+CID4515,mature NK T cell,invasive ductal breast carcinoma,10,0.0,-0.26311398,-0.3865355,0.0
+CID4515,memory B cell,invasive ductal breast carcinoma,30,0.0,-0.21510938,-0.2933799,0.0
+CID4515,monocyte,invasive ductal breast carcinoma,19,0.0,-0.057789546,-0.10390338,0.0
+CID4515,myeloid cell,invasive ductal breast carcinoma,10,0.0,-0.035980847,0.079156384,0.0
+CID4515,naive B cell,invasive ductal breast carcinoma,24,0.0,-0.2660246,-0.34822723,0.0
+CID4515,natural killer cell,invasive ductal breast carcinoma,3,0.0,-0.16967118,-0.11555346,0.0
+CID4515,pericyte,invasive ductal breast carcinoma,17,0.0,-0.05118503,-0.110339105,0.0
+CID4515,plasmablast,invasive ductal breast carcinoma,4,0.0,-0.14205578,-0.10043374,0.0
+CID4523,"CD4-positive, alpha-beta T cell",breast carcinoma,11,0.0,-0.17778242,-0.26910198,0.0
+CID4523,"CD8-positive, alpha-beta T cell",breast carcinoma,9,0.0,-0.20505945,-0.22369057,0.0
+CID4523,T cell,breast carcinoma,3,0.0,-0.16452092,0.22174776,0.0
+CID4523,fibroblast of breast,breast carcinoma,5,0.0,0.3981304,0.58326465,0.0
+CID4523,luminal epithelial cell of mammary gland,breast carcinoma,4,0.0,-0.2475602,-0.16203932,0.0
+CID4523,macrophage,breast carcinoma,22,0.0,-0.20832498,-0.3126681,0.0
+CID4523,mammary gland epithelial cell,breast carcinoma,160,0.0,0.23867291,0.3239159,0.0
+CID4523,monocyte,breast carcinoma,17,0.0,-0.17533734,-0.2204941,0.0
+CID4523,myeloid cell,breast carcinoma,3,0.0,0.29754424,0.30378294,0.0
+CID4523,natural killer cell,breast carcinoma,8,0.0,-0.10560257,0.03248953,0.0
+CID4523,pericyte,breast carcinoma,4,0.0,0.20306532,0.18927594,0.0
+CID4530N,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,23,0.0,-0.22766277,-0.21352327,0.0
+CID4530N,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,16,0.0,-0.24996892,-0.30547702,0.0
+CID4530N,basal-myoepithelial cell of mammary gland,invasive ductal breast carcinoma,3,0.0,-0.19831395,-0.12005129,0.0
+CID4530N,endothelial cell,invasive ductal breast carcinoma,126,0.0,0.19440696,0.20351808,0.0
+CID4530N,fibroblast of breast,invasive ductal breast carcinoma,51,0.0,0.036592938,0.014087324,0.0
+CID4530N,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,244,0.0,0.57407415,0.5003164,0.0
+CID4530N,macrophage,invasive ductal breast carcinoma,6,0.0,0.16526324,0.31662482,0.0
+CID4530N,mammary gland epithelial cell,invasive ductal breast carcinoma,14,0.0,0.42164195,0.30878073,0.0
+CID4530N,mature NK T cell,invasive ductal breast carcinoma,9,0.0,-0.27727973,-0.31851637,0.0
+CID4530N,myeloid cell,invasive ductal breast carcinoma,3,0.0,-0.023963682,0.011646211,0.0
+CID4530N,pericyte,invasive ductal breast carcinoma,66,0.0,-0.07682348,-0.055254214,0.0
+CID4530N,plasmablast,invasive ductal breast carcinoma,8,0.0,0.05536108,-0.0577017,0.0
+CID4535,"CD4-positive, alpha-beta T cell",invasive lobular breast carcinoma,41,0.0,-0.2637385,-0.33808708,0.0
+CID4535,"CD8-positive, alpha-beta T cell",invasive lobular breast carcinoma,5,0.0,-0.28886247,-0.16411196,0.0
+CID4535,endothelial cell,invasive lobular breast carcinoma,20,0.0,0.0089407265,0.037718505,0.0
+CID4535,fibroblast of breast,invasive lobular breast carcinoma,10,0.0,-0.044169016,-0.031084161,0.0
+CID4535,luminal epithelial cell of mammary gland,invasive lobular breast carcinoma,263,0.0,0.47834903,0.45052668,0.0
+CID4535,macrophage,invasive lobular breast carcinoma,16,0.0,0.031087235,0.19934472,0.0
+CID4535,mammary gland epithelial cell,invasive lobular breast carcinoma,27,0.0,0.6330626,0.48034757,0.0
+CID4535,mature NK T cell,invasive lobular breast carcinoma,4,0.0,-0.011119008,-0.19489565,0.0
+CID4535,memory B cell,invasive lobular breast carcinoma,7,0.0,-0.264077,-0.33195782,0.0
+CID4535,monocyte,invasive lobular breast carcinoma,5,0.0,-0.04284962,0.090356186,0.0
+CID4535,myeloid cell,invasive lobular breast carcinoma,5,0.0,-0.0122272745,0.023671042,0.0
+CID4535,pericyte,invasive lobular breast carcinoma,102,0.0,-0.0035384595,0.057152964,0.0
+CID4535,plasmablast,invasive lobular breast carcinoma,12,0.0,-0.14447491,0.05458595,0.0
+CID44041,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,51,0.0,-0.26044938,-0.18575405,0.0
+CID44041,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,26,0.0,-0.18544714,-0.28622508,0.0
+CID44041,endothelial cell,invasive ductal breast carcinoma,21,0.0,-0.004267875,-0.1542686,0.0
+CID44041,fibroblast of breast,invasive ductal breast carcinoma,86,0.0,-0.06699429,0.028741276,0.0
+CID44041,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,11,0.0,0.20001799,0.510027,0.0
+CID44041,macrophage,invasive ductal breast carcinoma,6,0.0,-0.12961484,-0.2506605,0.0
+CID44041,mature NK T cell,invasive ductal breast carcinoma,3,0.0,-0.17134756,-0.36596748,0.0
+CID44041,memory B cell,invasive ductal breast carcinoma,22,0.0,-0.21348734,-0.2062529,0.0
+CID44041,myeloid cell,invasive ductal breast carcinoma,4,0.0,-0.15182067,0.008933435,0.0
+CID44041,natural killer cell,invasive ductal breast carcinoma,5,0.0,-0.16568112,-0.21061714,0.0
+CID44041,pericyte,invasive ductal breast carcinoma,20,0.0,-0.16567817,-0.06592618,0.0
+CID44971,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,293,0.0,-0.14014268,-0.053302538,0.0
+CID44971,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,239,0.0,-0.138677,-0.08475067,0.0
+CID44971,T cell,invasive ductal breast carcinoma,37,0.0,0.19378631,0.045230974,0.0
+CID44971,basal-myoepithelial cell of mammary gland,invasive ductal breast carcinoma,7,0.0,-0.04918556,0.00847004,0.0
+CID44971,endothelial cell,invasive ductal breast carcinoma,29,0.0,0.0035742298,0.11921877,0.0
+CID44971,fibroblast of breast,invasive ductal breast carcinoma,95,0.0,-0.012391489,0.04966647,0.0
+CID44971,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,43,0.0,0.22683848,0.45985332,0.0
+CID44971,macrophage,invasive ductal breast carcinoma,32,0.0,0.09299429,0.0891711,0.0
+CID44971,mammary gland epithelial cell,invasive ductal breast carcinoma,117,0.0,0.41586652,0.4333216,0.0
+CID44971,mature NK T cell,invasive ductal breast carcinoma,9,0.0,-0.13425043,-0.10373406,0.0
+CID44971,memory B cell,invasive ductal breast carcinoma,24,0.0,-0.14170775,-0.1384047,0.0
+CID44971,monocyte,invasive ductal breast carcinoma,27,0.0,-0.05527348,0.0146835605,0.0
+CID44971,myeloid cell,invasive ductal breast carcinoma,22,0.0,0.015460094,0.042393163,0.0
+CID44971,naive B cell,invasive ductal breast carcinoma,10,0.0,-0.19168824,-0.3269505,0.0
+CID44971,natural killer cell,invasive ductal breast carcinoma,12,0.0,-0.14284877,-0.19541983,0.0
+CID44971,pericyte,invasive ductal breast carcinoma,12,0.0,0.018123297,-0.07660038,0.0
+CID44971,plasmablast,invasive ductal breast carcinoma,11,0.0,0.0134628825,0.06517901,0.0
+CID44991,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,69,0.0,-0.2589813,-0.22954607,0.0
+CID44991,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,29,0.0,-0.19740334,-0.20785834,0.0
+CID44991,T cell,invasive ductal breast carcinoma,23,0.0,0.031227317,-0.13575973,0.0
+CID44991,endothelial cell,invasive ductal breast carcinoma,8,0.0,-0.19490147,-0.3692998,0.0
+CID44991,fibroblast of breast,invasive ductal breast carcinoma,26,0.0,-0.12122722,-0.13328236,0.0
+CID44991,luminal epithelial cell of mammary gland,invasive ductal breast carcinoma,19,0.0,0.17344856,0.19482112,0.0
+CID44991,macrophage,invasive ductal breast carcinoma,19,0.0,0.016751252,0.10070227,0.0
+CID44991,mammary gland epithelial cell,invasive ductal breast carcinoma,518,0.0,0.18378466,0.2800995,0.0
+CID44991,mature NK T cell,invasive ductal breast carcinoma,6,0.0,-0.22969703,-0.44078216,0.0
+CID44991,memory B cell,invasive ductal breast carcinoma,10,0.0,-0.14295515,-0.35230386,0.0
+CID44991,monocyte,invasive ductal breast carcinoma,7,0.0,-0.06526139,0.01954838,0.0
+CID44991,myeloid cell,invasive ductal breast carcinoma,5,0.0,-0.011462554,0.015507433,0.0
+CID44991,natural killer cell,invasive ductal breast carcinoma,4,0.0,-0.21634603,-0.3213951,0.0
+CID44991,pericyte,invasive ductal breast carcinoma,10,0.0,-0.057034485,-0.011386216,0.0
+CID44991,plasmablast,invasive ductal breast carcinoma,175,0.0,-0.15761651,-0.23195587,0.0
+CID45171,"CD4-positive, alpha-beta T cell",invasive ductal breast carcinoma,104,0.0,-0.20648792,-0.24254249,0.0
+CID45171,"CD8-positive, alpha-beta T cell",invasive ductal breast carcinoma,42,0.0,-0.18265107,-0.22648437,0.0
+CID45171,T cell,invasive ductal breast carcinoma,3,0.0,0.02309448,-0.08970728,0.0
+CID45171,mammary gland epithelial cell,invasive ductal breast carcinoma,105,0.0,0.44780853,0.54483885,0.0
+CID45171,mature NK T cell,invasive ductal breast carcinoma,25,0.0,-0.23522472,-0.27177864,0.0
+CID45171,memory B cell,invasive ductal breast carcinoma,6,0.0,-0.23517016,-0.2979047,0.0
+CID45171,monocyte,invasive ductal breast carcinoma,21,0.0,-0.1987143,-0.11567989,0.0
+CID45171,myeloid cell,invasive ductal breast carcinoma,3,0.0,0.16728804,-0.17696619,0.0
+CID45171,natural killer cell,invasive ductal breast carcinoma,17,0.0,-0.20035774,-0.2840723,0.0
+CID45171,pericyte,invasive ductal breast carcinoma,3,0.0,-0.21604864,-0.029087642,0.0
+HTAPP-225,T cell,breast cancer,11,0.0,-0.3216463,-0.3466736,0.0
+HTAPP-225,adipocyte,breast cancer,40,0.0,0.07535793,0.3199088,0.0
+HTAPP-225,blood vessel endothelial cell,breast cancer,35,0.0,-0.026816487,-0.007821293,0.0
+HTAPP-225,blood vessel smooth muscle cell,breast cancer,7,0.0,-0.29684395,-0.18969361,0.0
+HTAPP-225,fibroblast,breast cancer,32,0.0,-0.050752945,-0.12794311,0.0
+HTAPP-225,macrophage,breast cancer,4,0.0,-0.24192193,-0.16531572,0.0
+HTAPP-225,malignant cell,breast cancer,90,0.0,0.15771255,-0.13369879,0.0
+HTAPP-425,T cell,breast cancer,43,0.0,-0.21977608,-0.09621931,0.0
+HTAPP-425,endothelial cell,breast cancer,7,0.0,0.15886532,0.20045461,0.0
+HTAPP-425,fibroblast,breast cancer,19,0.0,-0.12758997,0.11376381,0.0
+HTAPP-425,keratinocyte,breast cancer,18,0.0,-0.0023973472,0.08247753,0.0
+HTAPP-425,macrophage,breast cancer,13,0.0,-0.17583492,-0.10605813,0.0
+HTAPP-425,malignant cell,breast cancer,81,0.0,0.42139697,0.6218983,0.0
+HTAPP-425,monocyte,breast cancer,6,0.0,-0.06777501,0.11549044,0.0
+HTAPP-783,T cell,breast cancer,31,0.0,-0.16095635,-0.25187618,0.0
+HTAPP-783,endothelial cell,breast cancer,34,0.0,0.08727166,0.257871,0.0
+HTAPP-783,fibroblast,breast cancer,48,0.0,-0.030947544,0.048587907,0.0
+HTAPP-783,macrophage,breast cancer,28,0.0,-0.022379093,0.15988347,0.0
+HTAPP-783,malignant cell,breast cancer,157,0.0,0.23557076,0.4731719,0.0
+HTAPP-783,mast cell,breast cancer,3,0.0,-0.24660057,0.025082251,0.0
+HTAPP-783,plasma cell,breast cancer,3,0.0,-0.2689026,-0.42441773,0.0
+HTAPP-806,T cell,breast cancer,33,0.0,-0.058421694,-0.18296967,0.0
+HTAPP-806,blood vessel endothelial cell,breast cancer,76,0.0,0.18679082,0.26478678,0.0
+HTAPP-806,blood vessel smooth muscle cell,breast cancer,9,0.0,-0.0075659733,-0.15729609,0.0
+HTAPP-806,fibroblast,breast cancer,49,0.0,-0.18700242,-0.19120814,0.0
+HTAPP-806,macrophage,breast cancer,19,0.0,0.40408188,0.2449451,0.0
+HTAPP-806,malignant cell,breast cancer,463,0.0,0.2378422,0.29366636,0.0
+HTAPP-862,T cell,breast cancer,43,0.0,-0.09028082,-0.20693466,0.0
+HTAPP-862,adipocyte,breast cancer,5,0.0,-0.11260259,0.16718194,0.0
+HTAPP-862,blood vessel endothelial cell,breast cancer,84,0.0,0.38739917,0.46906212,0.0
+HTAPP-862,fibroblast,breast cancer,118,0.0,0.29294756,0.20921072,0.0
+HTAPP-862,macrophage,breast cancer,16,0.0,0.09631327,0.02173404,0.0
+HTAPP-862,malignant cell,breast cancer,1162,0.0,0.34439015,0.2886833,0.0

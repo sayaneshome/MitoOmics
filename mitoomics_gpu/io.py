@@ -43,9 +43,9 @@ def load_mitocarta_pathways(mitocarta_csv_path: str) -> dict[str, list[str]]:
     """
     mc = pd.read_csv(mitocarta_csv_path)
     # Try a few likely column name variants
-    symbol_col_candidates = ["Symbol", "symbol", "SYMBOL", "GeneSymbol", "Gene Symbol"]
+    symbol_col_candidates = ["gene", "Symbol", "symbol", "SYMBOL", "GeneSymbol", "Gene Symbol"]
     path_col_candidates = [
-        "MitoCarta3.0_MitoPathways", "MitoPathways", "MitoCarta3.0 MitoPathways",
+        "MitoPathways", "MitoCarta3.0_MitoPathways", "MitoCarta3.0 MitoPathways",
         "MitoCarta3.0_MitoPathway", "MitoPathway"
     ]
 

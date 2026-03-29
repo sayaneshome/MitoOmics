@@ -1,0 +1,8 @@
+cancer_type,n,median,mean,std
+Colorectal,3,0.467,0.521,0.095
+Lung,7,0.467,0.353,0.182
+Prostate,2,0.318,0.318,0.21
+Breast,12,0.223,0.25,0.191
+Other,207,0.218,0.251,0.172
+Pancreatic,17,0.132,0.196,0.126
+Normal/Control,12,0.078,0.139,0.167

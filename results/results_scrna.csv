@@ -1,0 +1,74 @@
+subject_id,copy_number,fusion_fission,mitophagy,biogenesis,heterogeneity,disease,sex,tissue_general,cell_type,MHI,cohort
+BIOKEY_1,0.0,-0.062616475,-0.011917979,-0.024036614,0.5949000124081854,triple-negative breast carcinoma,unknown,breast,T cell,0.3068120359010309,scRNA
+BIOKEY_10,0.0,-0.05734557,-0.07354427,-0.021531688,0.47882199038063916,triple-negative breast carcinoma,unknown,breast,T cell,0.25750455455190946,scRNA
+BIOKEY_11,0.0,-0.088642225,-0.034059647,0.022149269,0.3851462678718182,triple-negative breast carcinoma,unknown,breast,T cell,0.24167579765885988,scRNA
+BIOKEY_12,0.0,-0.0607524,-0.03652473,-0.015604677,0.5023803884003352,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.27779245088260984,scRNA
+BIOKEY_13,0.0,-0.08843817,-0.12722838,-0.09777433,0.5199879713310738,HER2 positive breast carcinoma,unknown,breast,T cell,0.2251845320200613,scRNA
+BIOKEY_14,0.0,-0.08974688,-0.08100033,-0.030520793,0.6849500642650221,triple-negative breast carcinoma,unknown,breast,T cell,0.27902801890994733,scRNA
+BIOKEY_15,0.0,-0.045860205,-0.013484041,0.014461156,0.5585177576327883,triple-negative breast carcinoma,unknown,breast,T cell,0.3071594207798921,scRNA
+BIOKEY_16,0.0,-0.067521416,-0.059690353,-0.02782781,0.5066091564301072,triple-negative breast carcinoma,unknown,breast,T cell,0.2644531492375691,scRNA
+BIOKEY_17,0.0,0.18905608,0.2430237,0.25906757,0.36210239957694795,estrogen-receptor positive breast cancer,unknown,breast,malignant cell,0.4995520171336256,scRNA
+BIOKEY_18,0.0,-0.097996846,-0.092163526,-0.0577741,0.6584348272753677,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.2644212281187813,scRNA
+BIOKEY_19,0.0,-0.062174898,-0.009870047,-0.01213338,0.6555036056783017,triple-negative breast carcinoma,unknown,breast,T cell,0.32007935200008164,scRNA
+BIOKEY_2,0.0,-0.083063185,-0.09667047,-0.056957543,0.5818757652409486,triple-negative breast carcinoma,unknown,breast,T cell,0.25447277259883433,scRNA
+BIOKEY_20,0.0,-0.05057826,0.0085295895,0.016795037,0.5966842625067825,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.32270390955408795,scRNA
+BIOKEY_21,0.0,-0.04739321,0.0075644352,0.009624318,0.20600811196317811,estrogen-receptor positive breast cancer,unknown,breast,malignant cell,0.24589113630158851,scRNA
+BIOKEY_22,0.0,-0.04071386,-0.049385965,-0.049990732,0.3096964080574247,estrogen-receptor positive breast cancer,unknown,breast,fibroblast,0.24331477582331387,scRNA
+BIOKEY_23,0.0,0.018545434,0.050470363,0.021549135,0.606366877085229,HER2 positive breast carcinoma,unknown,breast,malignant cell,0.3786098809646068,scRNA
+BIOKEY_24,0.0,0.05781784,0.077758715,0.12070627,0.6005209518047482,estrogen-receptor positive breast cancer,unknown,breast,malignant cell,0.4097239698608033,scRNA
+BIOKEY_25,0.0,-0.13052607,-0.14763229,-0.077394806,0.4392933067842277,triple-negative breast carcinoma,unknown,breast,T cell,0.1786171487557665,scRNA
+BIOKEY_26,0.0,-0.026100451,-0.05720094,-0.028383963,0.0,triple-negative breast carcinoma,unknown,breast,malignant cell,0.22315223094609637,scRNA
+BIOKEY_27,0.0,-0.013619146,-0.014447422,-0.021596279,0.5505810048141196,estrogen-receptor positive breast cancer,unknown,breast,fibroblast,0.3211683369207072,scRNA
+BIOKEY_28,0.0,0.03232234,0.06116813,0.07470986,0.593391407549149,HER2 positive breast carcinoma,unknown,breast,T cell,0.38787031324928345,scRNA
+BIOKEY_29,0.0,-0.023862174,0.037827797,0.06851107,0.6363328025230448,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.35758562322456977,scRNA
+BIOKEY_3,0.0,0.049089473,0.03847411,-0.002088315,0.3399274155894167,estrogen-receptor positive breast cancer,unknown,breast,fibroblast,0.3350476965800059,scRNA
+BIOKEY_30,0.0,0.18660226,0.2184006,0.28547442,0.20685264650285942,estrogen-receptor positive breast cancer,unknown,breast,malignant cell,0.46091851526069877,scRNA
+BIOKEY_31,0.0,-0.022644877,0.020141317,0.008505411,0.4364847919379292,triple-negative breast carcinoma,unknown,breast,malignant cell,0.3100610152578111,scRNA
+BIOKEY_32,0.0,-0.09742153,-0.14343216,-0.08284651,0.4954353677270319,estrogen-receptor positive breast cancer,unknown,breast,endothelial cell,0.2082511962283345,scRNA
+BIOKEY_33,0.0,-0.06888121,-0.072385594,-0.05963732,0.4566842827641614,triple-negative breast carcinoma,unknown,breast,T cell,0.24788881667021187,scRNA
+BIOKEY_34,0.0,-0.09493574,-0.14200018,-0.10124405,0.4445584366289302,triple-negative breast carcinoma,unknown,breast,myeloid cell,0.20000570296476466,scRNA
+BIOKEY_35,0.0,-0.07965574,-0.07003875,-0.036601465,0.5374707700508631,triple-negative breast carcinoma,unknown,breast,malignant cell,0.2597417328190751,scRNA
+BIOKEY_36,0.0,-0.09575184,-0.073097706,-0.044257693,0.5195856182713632,triple-negative breast carcinoma,unknown,breast,fibroblast,0.24673629172055545,scRNA
+BIOKEY_37,0.0,-0.10266137,-0.11637804,-0.084048375,0.642309736706931,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.2475784159891516,scRNA
+BIOKEY_38,0.0,-0.006147405,-0.006552311,0.0006900085,0.436943119100601,HER2 positive breast carcinoma,unknown,breast,fibroblast,0.30589909808425764,scRNA
+BIOKEY_39,0.0,-0.08038343,-0.07589156,-0.047861855,0.5277033007079515,triple-negative breast carcinoma,unknown,breast,fibroblast,0.25469846199152557,scRNA
+BIOKEY_4,0.0,-0.019857286,0.009729857,0.08009215,0.49637533611053114,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.31853665991384783,scRNA
+BIOKEY_40,0.0,-0.121790335,-0.1280187,-0.110149264,0.5299999353503909,estrogen-receptor positive breast cancer,unknown,breast,fibroblast,0.21021807847941493,scRNA
+BIOKEY_41,0.0,-0.11162764,-0.11029564,-0.076548435,0.42843050022267676,triple-negative breast carcinoma,unknown,breast,malignant cell,0.20328387219634306,scRNA
+BIOKEY_42,0.0,-0.067329526,-0.08920663,-0.0727889,0.5232898700787008,estrogen-receptor positive breast cancer,unknown,breast,fibroblast,0.25409695154824374,scRNA
+BIOKEY_5,0.0,-0.05967662,-0.044684887,-0.024012946,0.4664050602287035,estrogen-receptor positive breast cancer,unknown,breast,T cell,0.2673403980301283,scRNA
+BIOKEY_6,0.0,-0.038106535,-0.058764346,-0.013733317,0.5783120942819621,estrogen-receptor positive breast cancer,unknown,breast,malignant cell,0.2938274719788896,scRNA
+BIOKEY_7,0.0,0.11298554,0.11410101,0.14895426,0.41347352281383404,estrogen-receptor positive breast cancer,unknown,breast,fibroblast,0.41682096853045036,scRNA
+BIOKEY_8,0.0,-0.053886097,0.008923469,-0.008734478,0.3952218080014208,triple-negative breast carcinoma,unknown,breast,T cell,0.28104649948893706,scRNA
+BIOKEY_9,0.0,-0.1587686,-0.2201988,-0.18055922,0.5193107307007894,triple-negative breast carcinoma,unknown,breast,malignant cell,0.14665148652067428,scRNA
+CID3586,0.0,-0.1988005,-0.24114001,-0.17568208,0.6636823779191685,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.1457610677577227,scRNA
+CID3838,0.0,0.17757286,0.16352929,0.2248097,0.8189460842486361,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.5529326173634616,scRNA
+CID3921,0.0,0.010876963,-0.017659863,0.05392056,0.9196986503260106,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.40550279957732344,scRNA
+CID3941,0.0,-0.12830362,-0.15531518,-0.08206928,0.7747476915281833,invasive ductal breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.24306541904846413,scRNA
+CID3946,0.0,-0.2453468,-0.29845688,-0.32195815,0.7184148587213017,invasive ductal breast carcinoma,female,breast,pericyte,0.10759782570756266,scRNA
+CID3948,0.0,-0.19577971,-0.25623944,-0.21733728,0.8595941098102446,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.17930284035992403,scRNA
+CID3963,0.0,-0.123526365,-0.14010404,-0.083561696,0.7610527158134799,invasive ductal breast carcinoma,female,breast,"CD8-positive, alpha-beta T cell",0.24981141711582133,scRNA
+CID4040,0.0,0.038416166,0.0500623,0.10497602,0.8036108733239176,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.427660217432142,scRNA
+CID4066,0.0,-0.072324574,-0.09124791,-0.05612065,0.9052395777339509,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.3268644740370723,scRNA
+CID4067,0.0,-0.03854641,-0.08344205,-0.08128927,0.6413653812148639,invasive ductal breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.29466800208506394,scRNA
+CID4290A,0.0,0.014271257,-0.0017336741,0.033728044,0.6103946945395088,invasive ductal breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.35291515413857033,scRNA
+CID4398,0.0,-0.26927966,-0.3071235,-0.25678968,0.6105617634332589,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.08381339018510256,scRNA
+CID44041,0.0,-0.12666208,-0.11706959,-0.10675624,0.8536907286099812,invasive ductal breast carcinoma,female,breast,fibroblast of breast,0.2774878611850617,scRNA
+CID4461,0.0,-0.21498743,-0.23283355,-0.21838298,0.8183258361337592,invasive ductal breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.17243900594182662,scRNA
+CID4463,0.0,0.125927,0.06971591,0.18854654,0.7423484930994303,invasive ductal breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.4681554329569321,scRNA
+CID4465,0.0,-0.24153149,-0.35013688,-0.30689752,0.937828484960733,invasive ductal breast carcinoma,female,breast,fibroblast of breast,0.15017212896760365,scRNA
+CID4471,0.0,-0.003838039,0.06484906,0.096890755,0.8129048935566496,invasive lobular breast carcinoma,female,breast,endothelial cell,0.4153933483777201,scRNA
+CID4495,0.0,-0.034248088,-0.014492412,0.020551423,0.9999999994757144,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.38903683828645874,scRNA
+CID44971,0.0,-0.0159068,0.022075228,0.07507408,0.9458027532451624,invasive ductal breast carcinoma,female,breast,"CD4-positive, alpha-beta T cell",0.41523465862005793,scRNA
+CID44991,0.0,0.04157441,0.078800656,0.12533289,0.6265748937031138,invasive ductal breast carcinoma,female,breast,mammary gland epithelial cell,0.40732638691974615,scRNA
+CID4513,0.0,0.08591326,0.15608881,0.12716335,0.8580285326382479,breast carcinoma,female,breast,macrophage,0.5116495472407148,scRNA
+CID4515,0.0,0.17698549,0.068148665,0.1423101,0.8026691425773651,invasive ductal breast carcinoma,female,breast,mammary gland epithelial cell,0.5048640190762145,scRNA
+CID45171,0.0,0.0059485026,-0.01752646,-0.012567251,0.746731074247925,invasive ductal breast carcinoma,female,breast,mammary gland epithelial cell,0.36860265577581874,scRNA
+CID4523,0.0,0.114591725,0.09898099,0.18722463,0.5223873866181192,breast carcinoma,female,breast,mammary gland epithelial cell,0.4322916168265201,scRNA
+CID4530N,0.0,0.27131397,0.19520776,0.19768654,0.7242520273464023,invasive ductal breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.5892315822746008,scRNA
+CID4535,0.0,0.24281242,0.20354502,0.2659238,0.6915883714944133,invasive lobular breast carcinoma,female,breast,luminal epithelial cell of mammary gland,0.5786652161953114,scRNA
+HTAPP-225,0.0,0.0354836,-0.06864758,-0.2852521,0.6526161644003794,breast cancer,female,breast,malignant cell,0.34065473791382456,scRNA
+HTAPP-425,0.0,0.10897685,0.16663216,0.16700105,0.6425237368195592,breast cancer,female,breast,malignant cell,0.48505039359218316,scRNA
+HTAPP-783,0.0,0.10297234,0.21268097,0.14325564,0.5480648011460622,breast cancer,female,breast,malignant cell,0.48471451175543523,scRNA
+HTAPP-806,0.0,0.18511209,0.19645835,-0.21659891,0.3423612456201738,breast cancer,female,breast,malignant cell,0.47696965347424797,scRNA
+HTAPP-862,0.0,0.32520074,0.25371245,-0.11753587,0.1782841413332882,breast cancer,female,breast,malignant cell,0.49999999853557586,scRNA
