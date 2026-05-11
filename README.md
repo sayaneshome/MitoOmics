@@ -22,7 +22,6 @@ Hackathon project by *Team Go Getters* at the NVIDIA Accelerate Omics Hackathon 
 
 ## 🚀 Project Objective
 
-* Develop a *GPU-accelerated pipeline* for mitochondrial health analysis.
 * Link blood-derived EV/MDV proteomics with mitochondrial DNA copy-number proxies from scRNA-seq.
 * Provide interpretable measures:
 
@@ -40,11 +39,6 @@ pip install mitoomics-gpu
 ```
 
 ---
-## 🖥️ GPU Acceleration
-
-* Optimized with RAPIDS + GPU backends.
-* Clear *CPU vs GPU speedups* for large datasets.
-* Open-source, designed for integration with *scverse/rapids-singlecell*.
 
 
 ## 📊 Key Insights
