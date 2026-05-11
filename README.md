@@ -1,4 +1,4 @@
-# MitoOmics-GPU [Work in Progress]
+# MitoOmics
 
 [![PyPI version](https://img.shields.io/pypi/v/mitoomics-gpu.svg?color=blue)](https://pypi.org/project/mitoomics-gpu/)
 
