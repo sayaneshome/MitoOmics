@@ -6,7 +6,7 @@
 
 [![Python versions](https://img.shields.io/pypi/pyversions/mitoomics-gpu.svg)](https://pypi.org/project/mitoomics-gpu/)
 
-GPU-accelerated multi-omics pipeline to quantify and visualize the *Mitochondrial Health Index (MHI)* by integrating extracellular vesicle/mitochondrial-derived vesicle (EV/MDV) proteomics with single-cell RNA-seq.
+Computational pipeline to quantify and visualize the *Mitochondrial Health Index (MHI)* by integrating extracellular vesicle/mitochondrial-derived vesicle (EV/MDV) proteomics with single-cell RNA-seq.
 
 Hackathon project by *Team Go Getters* at the NVIDIA Accelerate Omics Hackathon (8-25 Sept 2025).
 
