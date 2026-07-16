@@ -17,6 +17,8 @@ Hackathon project by *Team Go Getters* at the NVIDIA Accelerate Omics Hackathon 
 * *Hirenkumar Patel, PhD* (Ophthalmology, Stanford)
 * *Ankit Maisuriya* (PhD candidate, Quantum Photonics, Northeastern)
 * *Medha Bhattacharya* (CS undergrad, UC Irvine)
+* Saion Chatterjee (Pathology,Stanford)
+* Bishnu Sarker ( University of North Texas)
 
 ---
 
